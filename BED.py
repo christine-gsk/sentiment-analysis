@@ -1,3 +1,5 @@
+! pip install textblob
+
 from textblob import TextBlob
 
 text = "The high cost of the drug is a Barrier, but the improved standard of care in the absence of corticosteroid overprescription is an Enabler."
